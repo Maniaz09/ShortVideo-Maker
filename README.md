@@ -69,3 +69,6 @@ download_youtube_video(youtube_url, output_folder)
 - Ensure that the required libraries are installed before running the script (`pip install moviepy yt-dlp`).
 
 Feel free to modify the script based on your specific needs and integrate it into your projects. If you encounter any issues or have suggestions, please open an issue in the repository. Happy video editing!
+
+
+This section now includes a specific credit to ChatGPT for its role in the development of the project.
